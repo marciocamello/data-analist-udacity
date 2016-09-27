@@ -2,7 +2,7 @@
 
 This is my project submissions for [Udacity Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) program.
 
-## Project 0: [Great size of Hashi](https://github.com/marciocamello/udacity/projects/projects/great-size-of-hashi)
+## Project 0: [Great size of Hashi](https://github.com/marciocamello/udacity/projects/great-size-of-hashi)
 
 ## Project 1: [Testing a phenomenon of perception](https://github.com/marciocamello/udacity/projects/pesting-a-phenomenon-of-perception)
 
