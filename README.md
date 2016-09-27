@@ -4,7 +4,7 @@ This is my project submissions for [Udacity Data Analyst Nanodegree](https://www
 
 ## Project 0: [Great size of Hashi](https://github.com/marciocamello/udacity/tree/master/projects/p0-great-size-of-hashi)
 
-## Project 1: [Testing a phenomenon of perception](https://github.com/marciocamello/udacity/tree/master/p1-projects/pesting-a-phenomenon-of-perception)
+## Project 1: [Testing a phenomenon of perception](https://github.com/marciocamello/udacity/tree/master/projects/p1-pesting-a-phenomenon-of-perception)
 
 ## Project 2: [Investigating a Database](https://github.com/marciocamello/udacity/tree/master/projects/p2-investigating-a-database)
 
